@@ -1,4 +1,9 @@
-![](https://github-readme-stats.vercel.app/api?username=mub4shir&show_icons=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mub4shir&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mub4shir&show_icons=true&theme=dark)
+
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan-Rashid&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **RobinMalfait/RobinMalfait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
