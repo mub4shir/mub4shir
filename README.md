@@ -1,4 +1,4 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mub4shir&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mub4shir&theme=dark)](https://git.io/streak-stats)]
 ![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mub4shir&show_icons=true&theme=dark)
 
 
