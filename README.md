@@ -1,13 +1,13 @@
 ## About me
 
-<img align="right" src="https://github-readme-stats-zhiwei-feng.vercel.app/api?username=mub4shir&show_icons=true" width="400" />
+<img align="right" src="https://github-readme-stats-mub4shir.vercel.app/api?username=mub4shir&show_icons=true" width="400" />
 
-Welcome! I’m mubashir.  
+Welcome! I’m mubashir.
 
-[![Gmail Badge](https://img.shields.io/badge/-mubashir11131719@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubashir11131719@gmail.com)](mailto:mubashir11131719@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mubashir11131719@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubashir11131719@gmail.com)](mubashir11131719@gmail.com)
 
 - Gopher, Javaer
-- Follow & Learn Rust
+- Follow & Learn GO
 - Interested in Microservices/Distributed System
 
 
@@ -19,9 +19,9 @@ Welcome! I’m mubashir.
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 
-<!--
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=mub4shir&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mub4shir&theme=dark)
 ![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mub4shir&show_icons=true&theme=dark)
