@@ -19,6 +19,8 @@ Welcome! I’m mubashir. I am a software developer who loves to convert problems
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb)
+
 
 
 
