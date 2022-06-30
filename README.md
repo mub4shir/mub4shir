@@ -1,6 +1,6 @@
 ## About me
 
-
+<img align="right" src="https://github-readme-stats-zhiwei-feng.vercel.app/api?username=mub4shir&show_icons=true" width="400" />
 
 Welcome! I’m mubashir.
 
@@ -20,8 +20,6 @@ Welcome! I’m mubashir.
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mub4shir&theme=dark)
-![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mub4shir&show_icons=true&theme=dark)
 
 
 
