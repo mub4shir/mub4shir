@@ -20,8 +20,21 @@ Welcome! I’m mubashir.
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mub4shir&theme=dark)
-![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mub4shir&show_icons=true&theme=dark)
 
+<!--START_SECTION:waka-->
+
+```text
+From: 30 May 2022 - To: 29 June 2022
+
+Java              15 hrs 14 mins  ██████████████░░░░░░░░░░░   55.68 %
+JavaScript        10 hrs 13 mins  █████████▒░░░░░░░░░░░░░░░   37.35 %
+HTTP Request      42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Markdown          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+XML               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Properties        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+```
+
+<!--END_SECTION:waka-->
+</p>
 
 
