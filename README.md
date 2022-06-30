@@ -4,8 +4,8 @@
 
 Welcome! I’m mubashir. I am a software developer who loves to convert problems into solution with scalable designs. I like to motivate and mentor people for career progress.
 
+[![Gmail Badge](https://img.shields.io/badge/-mubashir11131719@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubashir11131719@gmail.com)](mailto:mubashir11131719@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-mubashir11131719@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubashir11131719@gmail.com)](mubashir11131719@gmail.com)
 
 
 
