@@ -15,7 +15,7 @@ Welcome! I’m mubashir. I am a software developer who loves to convert problems
 
 ### Technologies
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
