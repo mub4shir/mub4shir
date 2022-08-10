@@ -29,14 +29,14 @@ Welcome! I’m mubashir. I am a software developer who loves to convert problems
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 05 August 2022
+From: 10 July 2022 - To: 09 August 2022
 
-JavaScript       12 hrs 29 mins  ███████████████▒░░░░░░░░░   61.11 %
-Java             3 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-SQL              1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Markdown         1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Go               41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-JSON             38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+JavaScript       22 hrs 7 mins   ██████████████▓░░░░░░░░░░   58.11 %
+Java             5 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Go               3 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+SQL              2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Markdown         2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+JSON             1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
