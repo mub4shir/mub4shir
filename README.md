@@ -29,7 +29,7 @@ Welcome! I’m mubashir. I am a software developer who loves to convert problems
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 03 November 2022
+From: 05 October 2022 - To: 04 November 2022
 
 JavaScript       5 hrs 52 mins   ████████████████░░░░░░░░░   63.73 %
 JSON             1 hr 56 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
