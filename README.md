@@ -29,14 +29,14 @@ Welcome! I’m mubashir. I am a software developer who loves to convert problems
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 January 2023 - To: 21 February 2023
+From: 23 January 2023 - To: 22 February 2023
 
-TypeScript   4 hrs 44 mins   ████████████▒░░░░░░░░░░░░   48.96 %
-JavaScript   3 hrs 58 mins   ██████████▒░░░░░░░░░░░░░░   41.15 %
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+JavaScript   3 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   44.98 %
+TypeScript   3 hrs 55 mins   ███████████░░░░░░░░░░░░░░   44.32 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
