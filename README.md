@@ -29,10 +29,10 @@ Welcome! I’m mubashir. I am a software developer who loves to convert problems
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2023 - To: 18 April 2023
+From: 20 March 2023 - To: 19 April 2023
 
-JavaScript   7 hrs 4 mins    ██████████████████░░░░░░░   72.29 %
-Other        2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+JavaScript   7 hrs 5 mins    █████████████████▓░░░░░░░   70.70 %
+Other        2 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
 ```
 
 <!--END_SECTION:waka-->
