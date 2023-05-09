@@ -29,12 +29,12 @@ Mubashir is a Software Developer by trade. He enjoys writing about diverse techn
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 06 May 2023
+From: 07 April 2023 - To: 07 May 2023
 
-JavaScript   5 hrs 23 mins   ████████████████▓░░░░░░░░   66.20 %
-Python       2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-Other        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   5 hrs           ████████████████▒░░░░░░░░   65.26 %
+Python       2 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.72 %
+Other        31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
