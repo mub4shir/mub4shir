@@ -29,7 +29,7 @@ Mubashir is a Software Developer by trade. He enjoys writing about diverse techn
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2023 - To: 02 June 2023
+From: 04 May 2023 - To: 03 June 2023
 
 JavaScript   27 mins         ███████████░░░░░░░░░░░░░░   44.09 %
 CSS          25 mins         ██████████▒░░░░░░░░░░░░░░   40.89 %
