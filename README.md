@@ -9,7 +9,7 @@ Mubashir is a Software Developer by trade. He enjoys writing about diverse techn
 
 
 
-- Follow & Learn Go
+- Follow & Learn Rust
 - Interested in Microservices/Distributed System
 
 
