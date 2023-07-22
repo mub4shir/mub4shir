@@ -29,13 +29,13 @@ Mubashir is a Software Developer by trade. He enjoys writing about diverse techn
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2023 - To: 19 July 2023
+From: 20 June 2023 - To: 20 July 2023
 
-TypeScript   9 hrs 46 mins   ████████████████████▒░░░░   81.60 %
-CSS          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TypeScript   8 hrs 21 mins   ████████████████████▓░░░░   82.10 %
+CSS          39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+HTML         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
