@@ -36,7 +36,7 @@
 
 - Algorithmic Efficiency: Adept at optimizing algorithms for distributed systems to minimize resource consumption and enhance overall performance.
 
-### Technologies
+### Technologies & Skills
 
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
