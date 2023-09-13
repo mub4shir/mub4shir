@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2023 - To: 10 September 2023
+From: 12 August 2023 - To: 11 September 2023
 
 HTML           35 mins         ██████████░░░░░░░░░░░░░░░   40.04 %
 Markdown       24 mins         ███████░░░░░░░░░░░░░░░░░░   27.68 %
