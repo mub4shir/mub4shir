@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 03 October 2023
+From: 04 September 2023 - To: 04 October 2023
 
 Text           41 mins         ████████▓░░░░░░░░░░░░░░░░   34.58 %
 JavaScript     32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
