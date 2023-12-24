@@ -62,11 +62,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 21 December 2023
+From: 22 November 2023 - To: 22 December 2023
 
-YAML         23 mins         ███████████▒░░░░░░░░░░░░░   45.46 %
-Other        17 mins         ████████▒░░░░░░░░░░░░░░░░   33.90 %
-TypeScript   10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.64 %
+YAML    23 mins         ██████████████▒░░░░░░░░░░   57.28 %
+Other   17 mins         ██████████▓░░░░░░░░░░░░░░   42.72 %
 ```
 
 <!--END_SECTION:waka-->
