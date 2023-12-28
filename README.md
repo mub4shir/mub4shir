@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 25 December 2023
+From: 26 November 2023 - To: 26 December 2023
 
 YAML    23 mins         ██████████████▒░░░░░░░░░░   57.28 %
 Other   17 mins         ██████████▓░░░░░░░░░░░░░░   42.72 %
