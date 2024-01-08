@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats-zhiwei-feng.vercel.app/api?username=mub4shir&show_icons=true" width="400" />
 
-"Experienced professional with 2 years in software development. Adept problem solver and collaborative team member. Committed to driving innovation and delivering high-quality solutions."
+"Experienced professional with 3 years in software development. Adept problem solver and collaborative team member. Committed to driving innovation and delivering high-quality solutions."
 
 [![Gmail Badge](https://img.shields.io/badge/-mubashir11131719@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubashir11131719@gmail.com)](mailto:mubashir11131719@gmail.com)
 
