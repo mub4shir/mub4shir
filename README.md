@@ -62,9 +62,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 04 September 2023
+From: 07 December 2023 - To: 06 January 2024
 
-HTML   35 mins         █████████████████████████   100.00 %
+YAML   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
