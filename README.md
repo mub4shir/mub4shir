@@ -62,9 +62,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 28 January 2024
+From: 30 December 2023 - To: 29 January 2024
 
-Markdown   0 secs          █████████████████████████   100.00 %
+JavaScript   1 hr 23 mins    ███████████████████████░░   91.93 %
+JSON         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
