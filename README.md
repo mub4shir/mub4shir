@@ -62,11 +62,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 07 March 2024
+From: 07 February 2024 - To: 08 March 2024
 
-Text         32 mins         █████████████░░░░░░░░░░░░   51.56 %
-JavaScript   30 mins         ████████████░░░░░░░░░░░░░   48.30 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Text         32 mins         ████████████░░░░░░░░░░░░░   47.59 %
+JavaScript   32 mins         ███████████▓░░░░░░░░░░░░░   47.32 %
+JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
