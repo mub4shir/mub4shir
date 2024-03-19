@@ -62,11 +62,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 16 March 2024
+From: 16 February 2024 - To: 17 March 2024
 
-Text         32 mins         ████████████░░░░░░░░░░░░░   47.59 %
-JavaScript   32 mins         ███████████▓░░░░░░░░░░░░░   47.32 %
-JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+JavaScript   32 mins         ██████████████████████▓░░   90.27 %
+JSON         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
 ```
 
 <!--END_SECTION:waka-->
