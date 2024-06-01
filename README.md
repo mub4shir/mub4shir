@@ -62,13 +62,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2024 - To: 29 May 2024
+From: 30 April 2024 - To: 30 May 2024
 
-JavaScript   2 hrs 15 mins   ██████████████████▓░░░░░░   75.33 %
-Bash         30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-Git Config   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JavaScript   3 hrs 29 mins   █████████████████░░░░░░░░   67.37 %
+Markdown     50 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Bash         32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
