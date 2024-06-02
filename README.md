@@ -62,10 +62,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2024 - To: 30 May 2024
+From: 01 May 2024 - To: 31 May 2024
 
-JavaScript   3 hrs 29 mins   █████████████████░░░░░░░░   67.37 %
-Markdown     50 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+JavaScript   3 hrs 29 mins   █████████████████░░░░░░░░   67.38 %
+Markdown     50 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
 Bash         32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
 Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
