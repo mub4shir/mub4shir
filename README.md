@@ -62,9 +62,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2024 - To: 30 July 2024
+From: 01 July 2024 - To: 31 July 2024
 
-TypeScript   0 secs          █████████████████████████   100.00 %
+JSON         2 mins          ███████████████████░░░░░░   76.31 %
+TypeScript   0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
