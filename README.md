@@ -62,13 +62,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2024 - To: 06 September 2024
+From: 09 August 2024 - To: 08 September 2024
 
-TypeScript   22 hrs 36 mins  ██████████████████▒░░░░░░   72.75 %
-Prisma       5 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Bash         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-JSON         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+TypeScript   20 hrs 50 mins  ██████████████████░░░░░░░   72.18 %
+Prisma       5 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
+Bash         1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JSON         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
