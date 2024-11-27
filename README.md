@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 24 November 2024
+From: 26 October 2024 - To: 25 November 2024
 
 TypeScript   8 hrs 51 mins   ██████████████████░░░░░░░   71.65 %
 Prisma       1 hr 56 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
