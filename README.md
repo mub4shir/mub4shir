@@ -62,13 +62,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2024 - To: 29 January 2025
+From: 31 December 2024 - To: 30 January 2025
 
-TypeScript    12 hrs 7 mins   ████████████████▓░░░░░░░░   66.09 %
-Prisma        2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-CSS           1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Bash          1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Text          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript    12 hrs          ████████████████▒░░░░░░░░   65.86 %
+Prisma        2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+CSS           1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Bash          1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Text          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
