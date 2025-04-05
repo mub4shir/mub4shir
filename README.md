@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 02 April 2025
+From: 04 March 2025 - To: 03 April 2025
 
 TypeScript   2 hrs 2 mins    █████████████████▒░░░░░░░   69.18 %
 Prisma       35 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
