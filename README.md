@@ -62,11 +62,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2025 - To: 16 April 2025
+From: 18 March 2025 - To: 17 April 2025
 
-Other        18 mins         ██████████████████░░░░░░░   72.54 %
-Prisma       6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other        18 mins         ███████████████████▒░░░░░   77.04 %
+Prisma       5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
