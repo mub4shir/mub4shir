@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2025 - To: 17 April 2025
+From: 19 March 2025 - To: 18 April 2025
 
 Other        18 mins         ███████████████████▒░░░░░   77.04 %
 Prisma       5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
