@@ -1,7 +1,6 @@
 # Mubashir Ali
 
-Low Latency • Problem Solving • Software Design • Functional Programming  
-Aggregation Pipeline: Advanced Data Analysis and Manipulation
+Low Latency • Problem Solving • Software Design • Functional Programming
 
 <!--START_SECTION:waka-->
 <!-- Automatically updated by waka-readme -->
